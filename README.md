@@ -10,14 +10,19 @@ Get up and running with React and Sass in no time at all. Includes:
 
 1. Install Yarn: `brew install yarn`
 2. Install node modules (in project root): `yarn install`
-3. Start watcher: `yarn start`
 
-To build for production:
+## To run:
+
+Run the start command:
+
+`yarn start`
+
+## To build for production:
 
 Run the build command:
 
 `yarn run build`
 
-## Why Aglaea
+## Project name
 
 Aglaea is the Greek goddess of beauty, splendor, glory, magnificence, and adornment.
