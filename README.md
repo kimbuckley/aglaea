@@ -1,5 +1,11 @@
 # Simple Front End Starter Kit
 
+Get up and running with React and Sass in no time at all. Includes:
+
+* React (15.6)
+* Webpack (3.5)
+* Sass (optional)
+
 ## To install:
 
 1. Install Yarn: `brew install yarn`
