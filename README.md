@@ -1,6 +1,6 @@
 # Simple Front End Starter Kit
 
-To install:
+## To install:
 
 1. Install Yarn: `brew install yarn`
 2. Install node modules (in project root): `yarn install`
@@ -11,3 +11,7 @@ To build for production:
 Run the build command:
 
 `yarn run build`
+
+## Why Aglaea
+
+Aglaea is the Greek goddess of beauty, splendor, glory, magnificence, and adornment.
