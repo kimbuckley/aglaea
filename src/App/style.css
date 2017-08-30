@@ -1,0 +1,16 @@
+.App {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 768px) {
+  .App { width: 80% }
+}
+
+@media (min-width: 992px) {
+  .App { width: 70% }
+}
+
+@media (min-width: 1200px) {
+  .App { width: 60% }
+}

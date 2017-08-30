@@ -1,0 +1,22 @@
+$orange: #ff3300;
+$small: 15px;
+$medium: 20px;
+$large: 25px;
+
+body {
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: $small;
+  margin: 0;
+  padding: 20px;
+  h1, h2 {
+    color: $orange;
+    font-size: $large;
+    font-weight: 400;
+  }
+  h3, h4 {
+    color: $orange;
+    font-size: $medium;
+    font-weight: 400;
+  }
+}
